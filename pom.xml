@@ -14,7 +14,7 @@
 	<!--这是我修改的第八个-->   
 
  <modules>
-<module>spring-boot-actuator</module>
+        <module>spring-boot-actuator</module>
         <module>spring-boot-admin-simple</module>
         <module>spring-boot-banner</module>
         <module>spring-boot-commandLineRunner</module>
