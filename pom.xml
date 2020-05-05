@@ -10,6 +10,7 @@
     <version>2.0.0</version>
     <!--这是我修改的第一个-->
     <!--这是我修改的第二个-->
+    <!--这是我修改的第三个-->
     <modules>
         <module>spring-boot-actuator</module>
         <module>spring-boot-admin-simple</module>
